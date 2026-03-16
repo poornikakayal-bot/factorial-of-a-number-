@@ -58,7 +58,9 @@ OUTPUT
 
 ---
 MANUAL CALCULATIONS
-
+40H=18H
+4!=4*3*2*1=24
+24 in hexadecimal=18H
 ---
 
 RESULT
